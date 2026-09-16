@@ -1,0 +1,35 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(252, 231, 210);
+    text-align:center;
+}
+.heading{
+    font-size: larger;
+    color:rgb(254, 169, 169);
+}
+.container
+{
+    width:300px;
+    margin:100px auto;
+    padding:50px;
+    background-color:rgb(254, 169, 169);
+    border-radius: 30px;
+    border-style: double;
+}
+input{
+    width:90%;
+    padding:10px;
+    margin:10px;
+    border-radius:30px; 
+    
+}
+button{
+    padding: 10px 20px;
+background-color:rgb(246, 245, 245);
+color:rgb(15, 0, 0);
+border-radius: 30px;
+
+}
+#result{
+    color:rgb(240, 245, 245);
+}
